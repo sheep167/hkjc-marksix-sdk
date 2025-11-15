@@ -2,7 +2,7 @@
 	"name": "hkjc-marksix-client",
 	"module": "index.ts",
 	"type": "module",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "TypeScript client for Hong Kong Jockey Club Mark Six GraphQL API",
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
